@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace _10.LowerToUpper
 {
@@ -6,7 +6,17 @@ namespace _10.LowerToUpper
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            char character = char.Parse(Console.ReadLine());
+
+            if (char.IsUpper(character))
+            {
+                Console.WriteLine("upper-case");
+            }
+
+            if (char.IsLower(character))
+            {
+                Console.WriteLine("lower-case");
+            }
         }
     }
 }

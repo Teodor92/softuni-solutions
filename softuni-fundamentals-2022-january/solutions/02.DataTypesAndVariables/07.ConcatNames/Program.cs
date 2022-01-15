@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace _07.ConcatNames
 {
@@ -6,7 +6,11 @@ namespace _07.ConcatNames
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string firstName = Console.ReadLine();
+            string lastName = Console.ReadLine();
+            string delimiter = Console.ReadLine();
+
+            Console.WriteLine($"{firstName}{delimiter}{lastName}");
         }
     }
 }

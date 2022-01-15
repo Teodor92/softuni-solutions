@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace _09.CharsToString
 {
@@ -6,7 +6,11 @@ namespace _09.CharsToString
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var firstChar = Console.ReadLine();
+            var secondChar = Console.ReadLine();
+            var thirdChar = Console.ReadLine();
+
+            Console.WriteLine($"{firstChar}{secondChar}{thirdChar}");
         }
     }
 }

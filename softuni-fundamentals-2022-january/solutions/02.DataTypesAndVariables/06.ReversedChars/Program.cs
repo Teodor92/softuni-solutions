@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace _06.ReversedChars
 {
@@ -6,7 +6,11 @@ namespace _06.ReversedChars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var firstChar = Console.ReadLine();
+            var secondChar = Console.ReadLine();
+            var thirdChar = Console.ReadLine();
+
+            Console.WriteLine($"{thirdChar} {secondChar} {firstChar}");
         }
     }
 }
