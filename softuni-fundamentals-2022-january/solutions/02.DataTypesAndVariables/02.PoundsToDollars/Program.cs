@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace _02.PoundsToDollars
 {
@@ -6,7 +6,10 @@ namespace _02.PoundsToDollars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            const decimal PoundsToDollarsExchangeRate = 1.31m;
+            decimal pounds = decimal.Parse(Console.ReadLine());
+            decimal dolars = pounds * PoundsToDollarsExchangeRate;
+            Console.WriteLine($"{Math.Round(dolars, 3, MidpointRounding.AwayFromZero):F3}");
         }
     }
 }

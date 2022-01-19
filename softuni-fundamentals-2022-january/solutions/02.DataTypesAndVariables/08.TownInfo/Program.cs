@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace _08.TownInfo
 {
@@ -6,7 +6,11 @@ namespace _08.TownInfo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string city = Console.ReadLine();
+            int population = int.Parse(Console.ReadLine());
+            double area = double.Parse(Console.ReadLine());
+
+            Console.WriteLine($"Town {city} has population of {population} and area {area} square km.");
         }
     }
 }
