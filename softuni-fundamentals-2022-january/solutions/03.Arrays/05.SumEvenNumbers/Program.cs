@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+using System.Linq;
 
 namespace _05.SumEvenNumbers
 {
@@ -6,7 +7,32 @@ namespace _05.SumEvenNumbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] items = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+            int sum = 0;
+
+            foreach (int item in items)
+            {
+                if (item % 2 == 0)
+                {
+                    sum += item;
+                }
+            }
+
+            Console.WriteLine("asdasdasd");
+            Console.Write("asdasd");
+            // down
+
+            //for (int i = 0; i < items.Length; i++)
+            //{
+            //    int currentValue = items[i];
+            //    if (currentValue % 2 == 0)
+            //    {
+            //        sum += currentValue;
+            //    }
+            //}
+
+            Console.WriteLine(sum);
         }
     }
 }

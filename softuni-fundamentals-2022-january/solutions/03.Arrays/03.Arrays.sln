@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DayOfWeek", "01.DayOfWeek\01.DayOfWeek.csproj", "{737BB05B-759D-4006-8382-0BC27B522F17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.DayOfWeek", "01.DayOfWeek\01.DayOfWeek.csproj", "{737BB05B-759D-4006-8382-0BC27B522F17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PrintNumbersInReverseOrder", "02.PrintNumbersInReverseOrder\02.PrintNumbersInReverseOrder.csproj", "{92009E4F-FB31-4C07-9FAD-ED0D7512FF90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.PrintNumbersInReverseOrder", "02.PrintNumbersInReverseOrder\02.PrintNumbersInReverseOrder.csproj", "{92009E4F-FB31-4C07-9FAD-ED0D7512FF90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RoundingNumbers", "03.RoundingNumbers\03.RoundingNumbers.csproj", "{732BDEBA-3DDD-4E18-96F9-C632609007C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.RoundingNumbers", "03.RoundingNumbers\03.RoundingNumbers.csproj", "{732BDEBA-3DDD-4E18-96F9-C632609007C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ReverseArrayOfStrings", "04.ReverseArrayOfStrings\04.ReverseArrayOfStrings.csproj", "{F014BF25-7F31-442F-9D68-EEB7A036807B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ReverseArrayOfStrings", "04.ReverseArrayOfStrings\04.ReverseArrayOfStrings.csproj", "{F014BF25-7F31-442F-9D68-EEB7A036807B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SumEvenNumbers", "05.SumEvenNumbers\05.SumEvenNumbers.csproj", "{0A4FEF71-6CD6-4F11-BA0A-68EAC175037F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.SumEvenNumbers", "05.SumEvenNumbers\05.SumEvenNumbers.csproj", "{0A4FEF71-6CD6-4F11-BA0A-68EAC175037F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EvenAndOddSubtraction", "06.EvenAndOddSubtraction\06.EvenAndOddSubtraction.csproj", "{9AE652FC-5111-4616-9E6E-EAA0F9CA11EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.EvenAndOddSubtraction", "06.EvenAndOddSubtraction\06.EvenAndOddSubtraction.csproj", "{9AE652FC-5111-4616-9E6E-EAA0F9CA11EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.EqualArrays", "07.EqualArrays\07.EqualArrays.csproj", "{DB304947-5912-42D9-82AF-7F25B0E69BE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.EqualArrays", "07.EqualArrays\07.EqualArrays.csproj", "{DB304947-5912-42D9-82AF-7F25B0E69BE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CondenseArrayToNumber", "08.CondenseArrayToNumber\08.CondenseArrayToNumber.csproj", "{54DEB12C-0B7A-4DAA-B410-1F56C3EF5696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.CondenseArrayToNumber", "08.CondenseArrayToNumber\08.CondenseArrayToNumber.csproj", "{54DEB12C-0B7A-4DAA-B410-1F56C3EF5696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.Demos", "00.Demos\00.Demos.csproj", "{BA716743-7A07-4C0F-8DAD-A1F3CCAEF3F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{54DEB12C-0B7A-4DAA-B410-1F56C3EF5696}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54DEB12C-0B7A-4DAA-B410-1F56C3EF5696}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54DEB12C-0B7A-4DAA-B410-1F56C3EF5696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA716743-7A07-4C0F-8DAD-A1F3CCAEF3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA716743-7A07-4C0F-8DAD-A1F3CCAEF3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA716743-7A07-4C0F-8DAD-A1F3CCAEF3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA716743-7A07-4C0F-8DAD-A1F3CCAEF3F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
