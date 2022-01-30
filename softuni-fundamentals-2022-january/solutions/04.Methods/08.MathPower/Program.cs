@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace _08.MathPower
 {
@@ -6,7 +6,22 @@ namespace _08.MathPower
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double number = double.Parse(Console.ReadLine());
+            int power = int.Parse(Console.ReadLine());
+            double result = GetPow(number, power);
+            Console.WriteLine(result);
+        }
+
+        static double GetPow(double number, int power)
+        {
+            double result = 1.0;
+
+            for (int i = 1; i <= power; i++)
+            {
+                result *= number;
+            }
+
+            return result;
         }
     }
 }

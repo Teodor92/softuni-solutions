@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace _06.CalculateRectangleArea
 {
@@ -6,7 +6,16 @@ namespace _06.CalculateRectangleArea
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double width = double.Parse(Console.ReadLine());
+            double hight = double.Parse(Console.ReadLine());
+
+            double result = CalculateArea(width, hight);
+            Console.WriteLine(result);
+        }
+
+        static double CalculateArea(double width, double hight)
+        {
+            return width * hight;
         }
     }
 }
