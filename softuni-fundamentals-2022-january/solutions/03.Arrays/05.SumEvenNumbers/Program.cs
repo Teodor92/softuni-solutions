@@ -19,10 +19,6 @@ namespace _05.SumEvenNumbers
                 }
             }
 
-            Console.WriteLine("asdasdasd");
-            Console.Write("asdasd");
-            // down
-
             //for (int i = 0; i < items.Length; i++)
             //{
             //    int currentValue = items[i];
