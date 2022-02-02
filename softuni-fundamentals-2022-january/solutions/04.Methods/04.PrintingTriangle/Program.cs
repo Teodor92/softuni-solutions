@@ -6,14 +6,14 @@ namespace _04.PrintingTriangle
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
+            int triangleHight = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i <= n; i++)
+            for (int i = 1; i <= triangleHight; i++)
             {
                 PrintLine(1, i);
             }
 
-            for (int i = n - 1; i >= 1 ; i--)
+            for (int i = triangleHight - 1; i >= 1 ; i--)
             {
                 PrintLine(1, i);
             }

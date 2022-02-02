@@ -11,36 +11,36 @@ namespace _09.GreaterOfTwoValues
             {
                 int first = int.Parse(Console.ReadLine());
                 int second = int.Parse(Console.ReadLine());
-                int outputLarger = GetIntMax(first, second);
+                int outputLarger = GetMax(first, second);
                 Console.WriteLine(outputLarger);
             }
             else if (type == "char")
             {
                 char first = char.Parse(Console.ReadLine());
                 char second = char.Parse(Console.ReadLine());
-                char outputLarger = GetCharMax(first, second);
+                char outputLarger = GetMax(first, second);
                 Console.WriteLine(outputLarger);
             }
             else
             {
                 string first = Console.ReadLine();
                 string second = Console.ReadLine();
-                string outputLarger = GetStringMax(first, second);
+                string outputLarger = GetMax(first, second);
                 Console.WriteLine(outputLarger);
             }
         }
 
-        static int GetIntMax(int first, int second)
+        static int GetMax(int first, int second)
         {
             return first >= second ? first : second;
         }
 
-        static char GetCharMax(char first, char second)
+        static char GetMax(char first, char second)
         {
             return first >= second ? first : second;
         }
 
-        static string GetStringMax(string first, string second)
+        static string GetMax(string first, string second)
         {
             return first.CompareTo(second) >= 0 ? first : second;
         }

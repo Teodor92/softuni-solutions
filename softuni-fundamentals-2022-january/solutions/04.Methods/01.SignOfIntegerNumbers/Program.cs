@@ -7,10 +7,10 @@ namespace _01.SignOfIntegerNumbers
         static void Main(string[] args)
         {
             int number = int.Parse(Console.ReadLine());
-            PrintSign(number);
+            PrintNumberSign(number);
         }
 
-        static void PrintSign(int number)
+        static void PrintNumberSign(int number)
         {
             if (number == 0)
             {
