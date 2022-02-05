@@ -3,27 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SignOfIntegerNumbers", "01.SignOfIntegerNumbers\01.SignOfIntegerNumbers.csproj", "{CCFB482D-FDC7-4AC3-AD66-07CD21AF7B7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SignOfIntegerNumbers", "01.SignOfIntegerNumbers\01.SignOfIntegerNumbers.csproj", "{CCFB482D-FDC7-4AC3-AD66-07CD21AF7B7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Grades", "02.Grades\02.Grades.csproj", "{CEF3B0CC-4448-4A47-8C9A-D6858ABF4986}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Grades", "02.Grades\02.Grades.csproj", "{CEF3B0CC-4448-4A47-8C9A-D6858ABF4986}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Calculations", "03.Calculations\03.Calculations.csproj", "{99546CC7-2F01-4602-846C-A8732B13E26B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Calculations", "03.Calculations\03.Calculations.csproj", "{99546CC7-2F01-4602-846C-A8732B13E26B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PrintingTriangle", "04.PrintingTriangle\04.PrintingTriangle.csproj", "{CDE6491B-59E6-4C33-B206-09AA1172D2C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.PrintingTriangle", "04.PrintingTriangle\04.PrintingTriangle.csproj", "{CDE6491B-59E6-4C33-B206-09AA1172D2C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Orders", "05.Orders\05.Orders.csproj", "{C7E03695-83E7-425C-BBA1-D3D06D0DEBBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Orders", "05.Orders\05.Orders.csproj", "{C7E03695-83E7-425C-BBA1-D3D06D0DEBBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.CalculateRectangleArea", "06.CalculateRectangleArea\06.CalculateRectangleArea.csproj", "{83F243BA-B28A-4E35-B5CC-549737631583}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.CalculateRectangleArea", "06.CalculateRectangleArea\06.CalculateRectangleArea.csproj", "{83F243BA-B28A-4E35-B5CC-549737631583}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.RepeatString", "07.RepeatString\07.RepeatString.csproj", "{6E1525EC-AFF4-47C3-947C-615CF96209B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.RepeatString", "07.RepeatString\07.RepeatString.csproj", "{6E1525EC-AFF4-47C3-947C-615CF96209B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MathPower", "08.MathPower\08.MathPower.csproj", "{25E48DEC-1D02-42E9-BFCB-1FCF68B1416C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.MathPower", "08.MathPower\08.MathPower.csproj", "{25E48DEC-1D02-42E9-BFCB-1FCF68B1416C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.GreaterOfTwoValues", "09.GreaterOfTwoValues\09.GreaterOfTwoValues.csproj", "{48AFE4D6-F2A8-46B9-A54C-07AD6D0453E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.GreaterOfTwoValues", "09.GreaterOfTwoValues\09.GreaterOfTwoValues.csproj", "{48AFE4D6-F2A8-46B9-A54C-07AD6D0453E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.MultiplyEvensByOdds", "10.MultiplyEvensByOdds\10.MultiplyEvensByOdds.csproj", "{5123D185-262E-4DE9-85DA-3C99DBC79374}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.MultiplyEvensByOdds", "10.MultiplyEvensByOdds\10.MultiplyEvensByOdds.csproj", "{5123D185-262E-4DE9-85DA-3C99DBC79374}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.MathOperations", "11.MathOperations\11.MathOperations.csproj", "{F3DDA88C-37F8-4926-B4D9-617F348EDEE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.MathOperations", "11.MathOperations\11.MathOperations.csproj", "{F3DDA88C-37F8-4926-B4D9-617F348EDEE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
