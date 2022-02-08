@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
 
 namespace _04.ListOfProducts
 {
@@ -6,7 +7,21 @@ namespace _04.ListOfProducts
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numberOfProducts = int.Parse(Console.ReadLine());
+            List<string> products = new List<string>();
+
+            for (int i = 0; i < numberOfProducts; i++)
+            {
+                string product = Console.ReadLine();
+                products.Add(product);
+            }
+
+            products.Sort();
+
+            for (int i = 0; i < products.Count; i++)
+            {
+                Console.WriteLine($"{i + 1}.{products[i]}");
+            }
         }
     }
 }
