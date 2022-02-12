@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ComputerStore", "01. ComputerStore\01. ComputerStore.csproj", "{A66CB36A-A920-4B42-805D-59FC7EFEDE9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ShootForTheWin", "02.ShootForTheWin\02.ShootForTheWin.csproj", "{315C7057-9CDF-4DF9-B4C9-6121E38120F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MemoryGame", "03.MemoryGame\03.MemoryGame.csproj", "{7F28BF47-3FA1-4863-A5DC-88A2C754D52F}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66CB36A-A920-4B42-805D-59FC7EFEDE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66CB36A-A920-4B42-805D-59FC7EFEDE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66CB36A-A920-4B42-805D-59FC7EFEDE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66CB36A-A920-4B42-805D-59FC7EFEDE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315C7057-9CDF-4DF9-B4C9-6121E38120F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315C7057-9CDF-4DF9-B4C9-6121E38120F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315C7057-9CDF-4DF9-B4C9-6121E38120F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315C7057-9CDF-4DF9-B4C9-6121E38120F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F28BF47-3FA1-4863-A5DC-88A2C754D52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F28BF47-3FA1-4863-A5DC-88A2C754D52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F28BF47-3FA1-4863-A5DC-88A2C754D52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F28BF47-3FA1-4863-A5DC-88A2C754D52F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
