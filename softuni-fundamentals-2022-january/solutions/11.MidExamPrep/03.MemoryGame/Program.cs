@@ -28,6 +28,7 @@ namespace _03.MemoryGame
                     string elementToAdd = $"-{moveCount}a";
                     elements.Insert(middleOfElemets, elementToAdd);
                     elements.Insert(middleOfElemets, elementToAdd);
+                    Console.WriteLine($"Invalid input!Adding additional elements to the board");
                 }
                 else if (elements[firstGuess] == elements[secondGuess])
                 {

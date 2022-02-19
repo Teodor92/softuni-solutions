@@ -20,8 +20,6 @@ namespace _05.MuOnline
 
                 string action = splitCommand[0];
 
-                Console.WriteLine();
-
                 if (action == "potion")
                 {
                     int healthToHeal = int.Parse(splitCommand[1]);
