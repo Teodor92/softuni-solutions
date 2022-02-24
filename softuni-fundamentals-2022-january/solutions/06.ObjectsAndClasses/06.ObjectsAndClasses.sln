@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RandomizeWords", "01.RandomizeWords\01.RandomizeWords.csproj", "{18E7F1DE-19A6-49E2-AB1B-0F580669972F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.RandomizeWords", "01.RandomizeWords\01.RandomizeWords.csproj", "{18E7F1DE-19A6-49E2-AB1B-0F580669972F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BigFactorial", "02.BigFactorial\02.BigFactorial.csproj", "{1CA89D3C-C616-4F03-A6CD-4857CCA5F0C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.BigFactorial", "02.BigFactorial\02.BigFactorial.csproj", "{1CA89D3C-C616-4F03-A6CD-4857CCA5F0C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Songs", "03.Songs\03.Songs.csproj", "{1AAB6B05-381A-4F6D-9AF7-1260525A4BCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Songs", "03.Songs\03.Songs.csproj", "{1AAB6B05-381A-4F6D-9AF7-1260525A4BCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Students", "04.Students\04.Students.csproj", "{4F3BA93D-E160-48E5-88CC-48C57E0815C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Students", "04.Students\04.Students.csproj", "{4F3BA93D-E160-48E5-88CC-48C57E0815C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Students2", "05.Students2\05.Students2.csproj", "{02102C15-6B52-4BF4-BB09-792CDCFE9EAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Students2", "05.Students2\05.Students2.csproj", "{02102C15-6B52-4BF4-BB09-792CDCFE9EAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.StoreBoxes", "06.StoreBoxes\06.StoreBoxes.csproj", "{CC663336-7D6D-4E74-AF61-CDC1AF5EA218}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.StoreBoxes", "06.StoreBoxes\06.StoreBoxes.csproj", "{CC663336-7D6D-4E74-AF61-CDC1AF5EA218}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.VehicleCatalogue", "07.VehicleCatalogue\07.VehicleCatalogue.csproj", "{CABB6B9C-F2A2-4E7B-9A80-071E455D8161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.VehicleCatalogue", "07.VehicleCatalogue\07.VehicleCatalogue.csproj", "{CABB6B9C-F2A2-4E7B-9A80-071E455D8161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.Demos", "00.Demos\00.Demos.csproj", "{94EDDDA6-B537-46BF-8BCB-DF6BCC17DF29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{CABB6B9C-F2A2-4E7B-9A80-071E455D8161}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CABB6B9C-F2A2-4E7B-9A80-071E455D8161}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CABB6B9C-F2A2-4E7B-9A80-071E455D8161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94EDDDA6-B537-46BF-8BCB-DF6BCC17DF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EDDDA6-B537-46BF-8BCB-DF6BCC17DF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EDDDA6-B537-46BF-8BCB-DF6BCC17DF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EDDDA6-B537-46BF-8BCB-DF6BCC17DF29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
