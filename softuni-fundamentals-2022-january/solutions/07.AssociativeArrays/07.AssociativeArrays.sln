@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CountRealNumbers", "01.CountRealNumbers\01.CountRealNumbers.csproj", "{29CC1DF8-7502-46A4-AA11-00D28D271701}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.CountRealNumbers", "01.CountRealNumbers\01.CountRealNumbers.csproj", "{29CC1DF8-7502-46A4-AA11-00D28D271701}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.OddOccurrences", "02.OddOccurrences\02.OddOccurrences.csproj", "{0221BD5A-2C69-49F9-8542-C7AAF209D423}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.OddOccurrences", "02.OddOccurrences\02.OddOccurrences.csproj", "{0221BD5A-2C69-49F9-8542-C7AAF209D423}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WordSynonyms", "03.WordSynonyms\03.WordSynonyms.csproj", "{24B12645-783D-41AF-A28E-6FA32885DF18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.WordSynonyms", "03.WordSynonyms\03.WordSynonyms.csproj", "{24B12645-783D-41AF-A28E-6FA32885DF18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.WordFilter", "04.WordFilter\04.WordFilter.csproj", "{A6BD709E-57F3-42F4-A45A-8FF33699320E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.WordFilter", "04.WordFilter\04.WordFilter.csproj", "{A6BD709E-57F3-42F4-A45A-8FF33699320E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.Demos", "00.Demos\00.Demos.csproj", "{87F7F1DB-D1EF-46B5-B4E9-288E9F92F1B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A6BD709E-57F3-42F4-A45A-8FF33699320E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6BD709E-57F3-42F4-A45A-8FF33699320E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6BD709E-57F3-42F4-A45A-8FF33699320E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F7F1DB-D1EF-46B5-B4E9-288E9F92F1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F7F1DB-D1EF-46B5-B4E9-288E9F92F1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F7F1DB-D1EF-46B5-B4E9-288E9F92F1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F7F1DB-D1EF-46B5-B4E9-288E9F92F1B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
