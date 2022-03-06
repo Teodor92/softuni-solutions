@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace _01.ReverseStrings
 {
@@ -6,7 +6,18 @@ namespace _01.ReverseStrings
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string command = Console.ReadLine();
+
+            while (command != "end")
+            {
+                char[] charCommand = command.ToCharArray();
+                Array.Reverse(charCommand);
+                string result = new string(charCommand);
+
+                Console.WriteLine($"{command} = {result}");
+
+                command = Console.ReadLine();
+            }
         }
     }
 }
