@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseStrings", "01.ReverseStrings\01.ReverseStrings.csproj", "{1440AF12-A14D-43A8-B8A3-06F41D53AA0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ReverseStrings", "01.ReverseStrings\01.ReverseStrings.csproj", "{1440AF12-A14D-43A8-B8A3-06F41D53AA0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RepeatStrings", "02.RepeatStrings\02.RepeatStrings.csproj", "{16FCA26B-F456-452D-A85C-3C2DE978AEC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.RepeatStrings", "02.RepeatStrings\02.RepeatStrings.csproj", "{16FCA26B-F456-452D-A85C-3C2DE978AEC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Substring", "03.Substring\03.Substring.csproj", "{DF154E96-CAB7-4973-A2CD-92B4595E46AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Substring", "03.Substring\03.Substring.csproj", "{DF154E96-CAB7-4973-A2CD-92B4595E46AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.TextFilter", "04.TextFilter\04.TextFilter.csproj", "{C1F97304-9B23-4CE3-AFF3-3E394D07768D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.TextFilter", "04.TextFilter\04.TextFilter.csproj", "{C1F97304-9B23-4CE3-AFF3-3E394D07768D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DigitsLettersAndOther", "05.DigitsLettersAndOther\05.DigitsLettersAndOther.csproj", "{B68EA3A8-C5C5-4DA5-AFD4-39479D095DCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.DigitsLettersAndOther", "05.DigitsLettersAndOther\05.DigitsLettersAndOther.csproj", "{B68EA3A8-C5C5-4DA5-AFD4-39479D095DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.Demos", "00.Demos\00.Demos.csproj", "{933EBCFE-374D-4CFC-8903-CCD6635ED791}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B68EA3A8-C5C5-4DA5-AFD4-39479D095DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B68EA3A8-C5C5-4DA5-AFD4-39479D095DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B68EA3A8-C5C5-4DA5-AFD4-39479D095DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933EBCFE-374D-4CFC-8903-CCD6635ED791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933EBCFE-374D-4CFC-8903-CCD6635ED791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933EBCFE-374D-4CFC-8903-CCD6635ED791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933EBCFE-374D-4CFC-8903-CCD6635ED791}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
