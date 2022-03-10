@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace _03.Substring
 {
@@ -6,7 +6,18 @@ namespace _03.Substring
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string wordToRemove = Console.ReadLine();
+            string text = Console.ReadLine();
+
+            while (text.Contains(wordToRemove))
+            {
+                //int startIndexOfWordToRemove = text.IndexOf(wordToRemove);
+                //text = text.Remove(startIndexOfWordToRemove, wordToRemove.Length);
+
+                text = text.Replace(wordToRemove, "");
+            }
+
+            Console.WriteLine(text);
         }
     }
 }
