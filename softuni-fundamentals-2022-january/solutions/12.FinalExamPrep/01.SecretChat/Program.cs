@@ -9,9 +9,9 @@ namespace _01.SecretChat
         {
             string message = Console.ReadLine();
 
-            string command = string.Empty;
+            string command = Console.ReadLine();
 
-            while ((command = Console.ReadLine()) != "Reveal")
+            while (command != "Reveal")
             {
                 string[] commandArgs = command.Split(":|:");
                 string type = commandArgs[0];
@@ -46,6 +46,8 @@ namespace _01.SecretChat
                 }
 
                 Console.WriteLine(message);
+
+                command = Console.ReadLine();
             }
 
             Console.WriteLine($"You have a new text message: {message}");
