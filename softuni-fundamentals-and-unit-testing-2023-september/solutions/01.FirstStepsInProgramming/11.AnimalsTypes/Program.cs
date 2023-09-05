@@ -1,10 +1,24 @@
-﻿namespace _11.AnimalsTypes
+namespace _11.AnimalsTypes
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string animal = Console.ReadLine();
+            switch (animal)
+            {
+                case "dog":
+                    Console.WriteLine("mammal");
+                    break;
+                case "crocodile":
+                case "tortoise":
+                case "snake":
+                    Console.WriteLine("reptile");
+                    break;
+                default:
+                    Console.WriteLine("unknown");
+                    break;
+            }
         }
     }
 }
