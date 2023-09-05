@@ -1,4 +1,4 @@
-# SoftUni C# Fundamentals Course Solutions - January 2021
+# SoftUni C# Fundamentals Course Solutions - January 2022
 
 This repository contains the solution for the Lab exercises that were done during the course.
 
