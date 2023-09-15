@@ -1,8 +1,10 @@
-﻿namespace _02.PrintNumbersInReverseOrder;
-class Program
+﻿namespace _02.PrintNumbersInReverseOrder
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 }

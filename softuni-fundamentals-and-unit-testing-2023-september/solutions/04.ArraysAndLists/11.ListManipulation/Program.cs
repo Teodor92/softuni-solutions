@@ -1,8 +1,10 @@
-﻿namespace _11.ListManipulation;
-class Program
+﻿namespace _11.ListManipulation
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 }

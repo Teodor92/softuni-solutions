@@ -1,8 +1,10 @@
-﻿namespace _10.ListOfProducts;
-class Program
+﻿namespace _10.ListOfProducts
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 }
