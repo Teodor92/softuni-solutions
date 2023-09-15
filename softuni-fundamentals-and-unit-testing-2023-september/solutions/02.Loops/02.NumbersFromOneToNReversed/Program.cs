@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int endNumber = int.Parse(Console.ReadLine());
+            for (int i = endNumber; i >= 1; i--)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
