@@ -10,8 +10,4 @@ This repository contains the solution for the Lab exercises that were done durin
 | 2  | [Loops - For Loop, While Loop](./solutions/02.Loops/) | [Link](https://softuni.bg/trainings/4256/programming-fundamentals-and-unit-testing-september-2023#lesson-60020) | [Link](https://judge.softuni.org/Contests/4340/Loops-While-and-For-Loops-Nested-Loops-Lab) |
 | 3  | [TODO](./) | [Link](./) | [Link](./) |
 | 4  | [Arrays and Loops](./solutions/04.ArraysAndLists/) | [Link](https://softuni.bg/trainings/4256/programming-fundamentals-and-unit-testing-september-2023#lesson-60027) | [Link](https://judge.softuni.org/Contests/4358/Arrays-and-Lists-Lab) |
-| 5  | [TODO](./) | [Link](./) | [Link](./) |
-| 6  | [TODO](./) | [Link](./) | [Link](./) |
-| 7  | [TODO](./) | [Link](./) | [Link](./) |
-| 8  | [TODO](./) | [Link](./) | [Link](./) |
-| 9  | [TODO](./) | [Link](./) | [Link](./) |
+| 5  | [Using Classes and Objects](./solutions/05.ClassesAndObjects/) | [Link](https://softuni.bg/trainings/4256/programming-fundamentals-and-unit-testing-september-2023#lesson-60031) | [Link](https://judge.softuni.org/Contests/4379/Using-Classes-and-Objects-Defining-Simple-Classes) |
