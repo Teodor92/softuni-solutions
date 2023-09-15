@@ -1,8 +1,10 @@
-﻿namespace _01.RandomizeWords;
-class Program
+﻿namespace _01.RandomizeWords
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 }

@@ -1,8 +1,10 @@
-﻿namespace _04.DaysBetweenDates;
-class Program
+﻿namespace _04.DaysBetweenDates
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 }

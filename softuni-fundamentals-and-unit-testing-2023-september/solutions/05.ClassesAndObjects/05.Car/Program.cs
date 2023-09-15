@@ -1,8 +1,10 @@
-﻿namespace _05.Car;
-class Program
+﻿namespace _05.Car
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 }

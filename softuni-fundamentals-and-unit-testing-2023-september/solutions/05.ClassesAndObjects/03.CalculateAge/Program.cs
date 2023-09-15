@@ -1,8 +1,10 @@
-﻿namespace _03.CalculateAge;
-class Program
+﻿namespace _03.CalculateAge
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 }
