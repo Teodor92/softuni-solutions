@@ -1,10 +1,25 @@
-﻿namespace _09.SmallestNumber
+namespace _09.SmallestNumber
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string command = Console.ReadLine();
+            int minNumber = int.MaxValue;
+
+            while (command != "Stop")
+            {
+                int number = int.Parse(command);
+
+                if (number < minNumber)
+                {
+                    minNumber = number;
+                }
+
+                command = Console.ReadLine();
+            }
+
+            Console.WriteLine(minNumber);
         }
     }
 }
