@@ -8,6 +8,7 @@ namespace _10.Graduation
             int classNumber = 1;
             double totalGrades = 0;
             int expelledCounter = 0;
+
             while (classNumber <= 12)
             {
                 double grade = double.Parse(Console.ReadLine());
