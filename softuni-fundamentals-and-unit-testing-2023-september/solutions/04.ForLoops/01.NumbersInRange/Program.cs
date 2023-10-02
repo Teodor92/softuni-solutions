@@ -11,7 +11,6 @@ namespace _01.NumbersInRange
             {
                 Console.WriteLine(i);
             }
-
         }
     }
 }
