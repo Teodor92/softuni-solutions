@@ -10,4 +10,4 @@ This repository contains the solution for the Lab exercises that were done durin
 | 2  | [Loops - For Loop, While Loop](./solutions/02.Loops/) | [Link](https://softuni.bg/trainings/4256/programming-fundamentals-and-unit-testing-september-2023#lesson-60020) | [Link](https://judge.softuni.org/Contests/4340/Loops-While-and-For-Loops-Nested-Loops-Lab) |
 | 3 | Program Reset
 | 4 | [For Loops](./solutions/04.ForLoops/) | [Link](https://softuni.bg/trainings/4256/programming-fundamentals-and-unit-testing-september-2023#lesson-60027) | [Link](https://judge.softuni.org/Contests/4404/For-Loop-Lab) |
-| 5 | [For Loops](./solutions/05.NestedLoops/) | [Link](https://softuni.bg/trainings/4256/programming-fundamentals-and-unit-testing-september-2023#lesson-60031) | [Link](https://judge.softuni.org/Contests/4416/Nested-Loops-Lab) |
+| 5 | [Nested Loops](./solutions/05.NestedLoops/) | [Link](https://softuni.bg/trainings/4256/programming-fundamentals-and-unit-testing-september-2023#lesson-60031) | [Link](https://judge.softuni.org/Contests/4416/Nested-Loops-Lab) |
