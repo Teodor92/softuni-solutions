@@ -4,7 +4,12 @@ namespace _01.NumbersFromNTo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int n = int.Parse(Console.ReadLine());
+
+            for (int i = n; i >= 1; i -= 1)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
