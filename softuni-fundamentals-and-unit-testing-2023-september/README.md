@@ -11,3 +11,5 @@ This repository contains the solution for the Lab exercises that were done durin
 | 3 | Program Reset
 | 4 | [For Loops](./solutions/04.ForLoops/) | [Link](https://softuni.bg/trainings/4256/programming-fundamentals-and-unit-testing-september-2023#lesson-60027) | [Link](https://judge.softuni.org/Contests/4404/For-Loop-Lab) |
 | 5 | [Nested Loops](./solutions/05.NestedLoops/) | [Link](https://softuni.bg/trainings/4256/programming-fundamentals-and-unit-testing-september-2023#lesson-60031) | [Link](https://judge.softuni.org/Contests/4416/Nested-Loops-Lab) |
+| 6 | Not teaching
+| 7 | [Unit Testing - Methods](./solutions/07.UnitTestingMethods/) | [Link](https://softuni.bg/trainings/4256/programming-fundamentals-and-unit-testing-september-2023#lesson-62113) | No Judge Testing |
