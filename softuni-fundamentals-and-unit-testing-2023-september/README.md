@@ -13,3 +13,4 @@ This repository contains the solution for the Lab exercises that were done durin
 | 5 | [Nested Loops](./solutions/05.NestedLoops/) | [Link](https://softuni.bg/trainings/4256/programming-fundamentals-and-unit-testing-september-2023#lesson-60031) | [Link](https://judge.softuni.org/Contests/4416/Nested-Loops-Lab) |
 | 6 | Not teaching
 | 7 | [Unit Testing - Methods](./solutions/07.UnitTestingMethods/) | [Link](https://softuni.bg/trainings/4256/programming-fundamentals-and-unit-testing-september-2023#lesson-62113) | No Judge Testing |
+| 8 | [Exam Preparation](./solutions/08.ExamPrepration/) | [Link](https://softuni.bg/trainings/4256/programming-fundamentals-and-unit-testing-september-2023#lesson-64723) | [Link](https://judge.softuni.org/Contests/4454/Exam-Preparation-I) |
