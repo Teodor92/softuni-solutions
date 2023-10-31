@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace TestApp;
 
@@ -9,7 +9,7 @@ public class CenterPoint
         double pointOne = Math.Abs(x1) + Math.Abs(y1);
         double pointTwo = Math.Abs(x2) + Math.Abs(y2);
 
-        string firstPointReport = $"({string.Join(", ", x1, y1)})";
+        string firstPointReport = $"({string.Join(", ", x1, y1)})"; // (x, y)
         string secondPointReport = $"({string.Join(", ", x2, y2)})";
 
         if (pointOne > pointTwo)
