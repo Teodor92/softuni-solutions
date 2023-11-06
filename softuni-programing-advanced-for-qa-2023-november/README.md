@@ -1,4 +1,4 @@
-# Programming Fundamentals and Unit Testing for QAs - September 2023
+# Programming Advanced for QAs - November 2023
 
 This repository contains the solution for the Lab exercises that were done during the course.
 
