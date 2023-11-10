@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseStrings", "01.ReverseStrings\01.ReverseStrings.csproj", "{D9344560-1291-480B-ADCE-95A5F00A18E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ReverseStrings", "01.ReverseStrings\01.ReverseStrings.csproj", "{D9344560-1291-480B-ADCE-95A5F00A18E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RepeatStrings", "02.RepeatStrings\02.RepeatStrings.csproj", "{0AC0B989-0FD8-449C-80E2-5CB6B2A579D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.RepeatStrings", "02.RepeatStrings\02.RepeatStrings.csproj", "{0AC0B989-0FD8-449C-80E2-5CB6B2A579D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Substring", "03.Substring\03.Substring.csproj", "{9BB152C3-A76B-4759-836B-FF8B52C71229}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Substring", "03.Substring\03.Substring.csproj", "{9BB152C3-A76B-4759-836B-FF8B52C71229}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.TextFilter", "04.TextFilter\04.TextFilter.csproj", "{17AD382E-8A62-43E4-BCFD-70F6CC7D6190}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.TextFilter", "04.TextFilter\04.TextFilter.csproj", "{17AD382E-8A62-43E4-BCFD-70F6CC7D6190}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DigitsLettersAndOthers", "05.DigitsLettersAndOthers\05.DigitsLettersAndOthers.csproj", "{EDCE85A1-F0A4-45E4-8863-B29486002353}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.DigitsLettersAndOthers", "05.DigitsLettersAndOthers\05.DigitsLettersAndOthers.csproj", "{EDCE85A1-F0A4-45E4-8863-B29486002353}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.Demos", "00.Demos\00.Demos.csproj", "{8E0A84B0-BC79-48F8-B023-FABD1A929452}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00.Demos", "00.Demos\00.Demos.csproj", "{8E0A84B0-BC79-48F8-B023-FABD1A929452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001.MethodOverloadingDemo", "001.MethodOverloadingDemo\001.MethodOverloadingDemo.csproj", "{F8F32DD0-1C07-44AD-89A7-0C65841AE617}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8E0A84B0-BC79-48F8-B023-FABD1A929452}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E0A84B0-BC79-48F8-B023-FABD1A929452}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E0A84B0-BC79-48F8-B023-FABD1A929452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8F32DD0-1C07-44AD-89A7-0C65841AE617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F32DD0-1C07-44AD-89A7-0C65841AE617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F32DD0-1C07-44AD-89A7-0C65841AE617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F32DD0-1C07-44AD-89A7-0C65841AE617}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
