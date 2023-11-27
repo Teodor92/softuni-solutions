@@ -1,4 +1,4 @@
-﻿namespace TestApp.Store;
+namespace TestApp.Store;
 
 public class Box
 {
