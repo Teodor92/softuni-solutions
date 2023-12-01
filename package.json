@@ -1,0 +1,15 @@
+{
+  "name": "softuni-solutions",
+  "version": "1.0.0",
+  "description": "A collection of lab solution for lectures I have given at SoftUni",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "author": "Teodor Kurtev",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
+    "husky": "^8.0.0"
+  }
+}
