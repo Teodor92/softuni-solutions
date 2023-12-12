@@ -13,7 +13,7 @@ public class StringRotator
 
         int length = input.Length;
         positions = Math.Abs(positions);
-        positions %= length;
+        positions %= length; // 7 - Length = 3 -> 1
 
         return input.Substring(length - positions) + input.Substring(0, length - positions);
     }

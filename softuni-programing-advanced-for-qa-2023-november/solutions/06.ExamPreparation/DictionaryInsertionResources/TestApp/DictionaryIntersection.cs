@@ -5,8 +5,8 @@ namespace TestApp;
 public class DictionaryIntersection
 {
     public static Dictionary<string, int> Intersect(
-        Dictionary<string, int> dict1, 
-        Dictionary<string, int> dict2)
+        IDictionary<string, int> dict1, 
+        IDictionary<string, int> dict2)
     {
         Dictionary<string, int> intersection = new();
 
