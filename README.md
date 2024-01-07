@@ -1,4 +1,4 @@
-# SoftUni Solutions
+# SoftUni Lecture Solutions
 
 A collection of solution for some of the courses I have thought at SoftUni.
 
