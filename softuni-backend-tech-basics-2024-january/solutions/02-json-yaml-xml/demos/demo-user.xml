@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+    <name>Teodor</name>
+    <age>19</age>
+    <email>hello@world@abv.bg</email>
+    <hobbies>
+        <hobby>programming</hobby>
+        <hobby>gaming</hobby>
+    </hobbies>
+    <jobs>
+        <job>
+            <company>Google</company>
+            <position>Software Engineer</position>
+        </job>
+    </jobs>
+</user>

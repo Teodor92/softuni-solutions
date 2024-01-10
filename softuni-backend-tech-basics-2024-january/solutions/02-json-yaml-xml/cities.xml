@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities revisonVersion="1.3">
+    <city>
+        <name>Paris</name>
+        <coutnry>France</coutnry>
+        <population>2161000</population>
+        <landmarks>
+            <landmark>Eiffel Tower</landmark>
+            <landmark>Louvre Museum</landmark>
+        </landmarks>
+    </city>
+    <city>
+        <name>Tokyo</name>
+        <coutnry>Japan</coutnry>
+        <population>13960000</population>
+        <landmarks>
+            <landmark>Tokoyo Tower</landmark>
+            <landmark>Sensoji Temple</landmark>
+        </landmarks>
+    </city>
+    <city>
+        <name>Cairo</name>
+        <coutnry>Egypt</coutnry>
+        <population>9500000</population>
+        <landmarks>
+            <landmark>Pyramids of Giza</landmark>
+            <landmark>Egyptian Museum</landmark>
+        </landmarks>
+    </city>
+    <city>
+        <name>New York</name>
+        <coutnry>USA</coutnry>
+        <population>8419000</population>
+        <landmarks>
+            <landmark>Statue of Liberty</landmark>
+            <landmark>Central Park</landmark>
+        </landmarks>
+    </city>
+    <city>
+        <name>Rio de Janeiro</name>
+        <coutnry>Brazil</coutnry>
+        <population>6748000</population>
+        <landmarks>
+            <landmark>Christ the Redeemer</landmark>
+            <landmark>Sugarloaf Mountain</landmark>
+        </landmarks>
+    </city>
+</cities>

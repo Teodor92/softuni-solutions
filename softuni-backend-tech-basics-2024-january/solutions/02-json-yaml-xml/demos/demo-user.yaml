@@ -1,0 +1,26 @@
+name: Teodor
+age: 30
+address:
+  street: 123 Main Street
+  city: Sofia
+  state: Sofia
+# isHungry: true
+hobbies: [home automation, reading, running]
+bio: |-
+  Teodor is a software engineer who enjoys reading and running.
+  He is currently working on a home automation project.
+  asdasdasd
+  asdasdasd
+  asd
+description: >-
+  Teodor is a software engineer who enjoys reading and running.
+  He is currently working on a home automation project.
+  asdasdasd
+  asdasdasd
+  asd
+jobs:
+  - company: SoftUni
+    title: Software Engineer
+  - company: Telerik
+    title: Junior Software Engineer
+

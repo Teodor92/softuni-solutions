@@ -1,0 +1,13 @@
+{
+    "name": "Banana",
+    "price": 11.99,
+    "isAvailable": true,
+    "description": "This is a simple banana",
+    "tags": ["food", "tropical", "fruit", 1, false, {}],
+    //"owner": null,
+    "location": {
+        "city": "New York",
+        "state": "NY"
+    },
+    "$comment": ""
+}
