@@ -6,8 +6,8 @@ This repository contains the solution for the Lab exercises that were done durin
 
 |   | Lecture                   | Site | Judge |
 |---|---------------------------|------|-------|
-| 1  | [Back-End Technologies Overview](./solutions/01-backend-tech-overview/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65533) | [Link](TODO) |
-| 2  | [Data Formats: JSON, and YAML, XML](./solutions/02-json-yaml-xml/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65534) | [Link](TODO) |
+| 1  | [Back-End Technologies Overview](./solutions/01-backend-tech-overview/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65533) | N/A |
+| 2  | [Data Formats: JSON, and YAML, XML](./solutions/02-json-yaml-xml/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65534) | N/A |
 | 3  | [JavaScript Basics](./solutions/03-javascript-basics/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65536) | [Link](TODO) |
 | 4  | [Exercise: JavaScript Basic](./solutions/04-javascript-basics-exercise/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65537) | [Link](TODO) |
 | 5  | [Exercise: JavaScript Fundamentals](./solutions/05-javascript-fundamentals-exercise/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65539) | [Link](TODO) |
