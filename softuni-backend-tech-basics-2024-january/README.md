@@ -8,8 +8,8 @@ This repository contains the solution for the Lab exercises that were done durin
 |---|---------------------------|------|-------|
 | 1  | [Back-End Technologies Overview](./solutions/01-backend-tech-overview/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65533) | N/A |
 | 2  | [Data Formats: JSON, and YAML, XML](./solutions/02-json-yaml-xml/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65534) | N/A |
-| 3  | [JavaScript Basics](./solutions/03-javascript-basics/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65536) | [Link](TODO) |
-| 4  | [Exercise: JavaScript Basic](./solutions/04-javascript-basics-exercise/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65537) | [Link](TODO) |
+| 3  | [JavaScript Basics](./solutions/03-javascript-basics/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65536) | [Link](https://judge.softuni.org/Contests/4622/JS-Basics-Lab) |
+| 4  | [Exercise: JavaScript Basic](./solutions/04-javascript-basics-exercise/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65537) | [Link](https://judge.softuni.org/Contests/4628/JS-Basics-Exercises) |
 | 5  | [Exercise: JavaScript Fundamentals](./solutions/05-javascript-fundamentals-exercise/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65539) | [Link](TODO) |
 | 6  | [Unit Testing with JavaScript](./solutions/06-unit-testing-with-javascript/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65540) | [Link](TODO) |
 | 7  | [Databases Overview](./solutions/07-databases-overview/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65542) | [Link](TODO) |
