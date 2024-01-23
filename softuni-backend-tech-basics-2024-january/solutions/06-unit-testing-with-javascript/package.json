@@ -1,0 +1,17 @@
+{
+  "name": "06-unit-testing-with-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha ./*.spec.js",
+    "hello": "echo \"This is another script!\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.0.0",
+    "mocha": "^10.2.0"
+  }
+}
