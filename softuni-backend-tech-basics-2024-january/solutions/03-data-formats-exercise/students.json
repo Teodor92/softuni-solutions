@@ -1,0 +1,74 @@
+[
+    {
+      "name": "Alice Johnson",
+      "age": 20,
+      "courses": [
+        {
+          "name": "Introduction to Computer Science"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "name": "Brian Smith",
+      "age": 22,
+      "courses": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Computational Theory"
+        },
+        {
+          "name": "Robotics"
+        }
+      ]
+    },
+    {
+      "name": "Charlotte Brown",
+      "age": 19,
+      "courses": [
+        {
+          "name": "Graphic Design"
+        },
+        {
+          "name": "Digital Marketing"
+        }
+      ]
+    },
+    {
+      "name": "David Wilson",
+      "age": 21,
+      "courses": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Network Infrastructure"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Data Privacy"
+        }
+      ]
+    },
+    {
+      "name": "Ella Davis",
+      "age": 23,
+      "courses": [
+        {
+          "name": "Advanced Mathematics"
+        },
+        {
+          "name": "Quantum Mechanics"
+        }
+      ]
+    }
+  ]
