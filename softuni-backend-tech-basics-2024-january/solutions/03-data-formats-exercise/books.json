@@ -1,0 +1,37 @@
+[
+    {
+      "title": "In Search of Lost Time",
+      "author": "Marcel Proust",
+      "released": 1913,
+      "pages": 4215,
+      "ISBN": "978-0-307-70075-2"
+    },
+    {
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "released": 1922,
+      "pages": 730,
+      "ISBN": "978-0-679-72276-2"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "released": 1813,
+      "pages": 432,
+      "ISBN": "978-1-85326-000-2"
+    },
+    {
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "released": 1851,
+      "pages": 635,
+      "ISBN": "978-0-14-243724-7"
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "released": 1997,
+      "pages": 309,
+      "ISBN": "978-0-590-35342-7"
+    }
+  ]

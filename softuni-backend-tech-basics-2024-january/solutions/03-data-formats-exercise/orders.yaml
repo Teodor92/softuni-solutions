@@ -1,0 +1,30 @@
+- order_id: 1001
+  customer: "John Doe"
+  item: "Wireless Mouse"
+  quantity: 3
+  total_amount: 29.97
+- order_id: 1002
+  customer: "Emily Clark"
+  item: "16GB USB Drives"
+  quantity: 2
+  total_amount: 31.96
+- order_id: 1003
+  customer: "Alex Johnson"
+  item: "External Hard Drive"
+  quantity: 1
+  total_amount: 89.99
+- order_id: 1004
+  customer: "Sarah Smith"
+  item: "Smartphone Cases"
+  quantity: 4
+  total_amount: 39.96
+- order_id: 1005
+  customer: "Michael Lee"
+  item: "Digital Camera"
+  quantity: 1
+  total_amount: 120.50
+- order_id: 1006
+  customer: "Karen Thompson"
+  item: "Bluetooth Speakers"
+  quantity: 2
+  total_amount: 58.00

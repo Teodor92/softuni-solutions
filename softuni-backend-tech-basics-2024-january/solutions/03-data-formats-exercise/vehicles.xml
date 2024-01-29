@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles>
+	<vehicle>
+		<type>Car</type>
+		<model>Tesla Model 3</model>
+		<specs>Electric sedan</specs>
+		<color>red</color>
+	</vehicle>
+	<vehicle>
+		<type>Motorcycle</type>
+		<model>Harley-Davidson</model>
+		<specs>V-twin engine</specs>
+		<color>black</color>
+	</vehicle>
+	<vehicle>
+		<type>Bicycle</type>
+		<model>Giant Escape 3</model>
+		<specs>Aluminum frame</specs>
+		<color>black</color>
+	</vehicle>
+	<vehicle>
+		<type>Scooter</type>
+		<model>Vespa Primavera</model>
+		<specs>50cc engine</specs>
+		<color>white</color>
+	</vehicle>
+	<vehicle>
+		<type>Boat</type>
+		<model>Bayliner Element</model>
+		<specs>18-foot length</specs>
+		<color>black</color>
+	</vehicle>
+</vehicles>

@@ -1,0 +1,45 @@
+- reservation_id: 101
+  guest_name: "Emma Johnson"
+  services:
+    - type: "Spa"
+      date: "June 15"
+      time: "2 PM"
+    - type: "Dinner"
+      date: "June 16"
+      time: "8 PM"
+- reservation_id: 102
+  guest_name: "John Davis"
+  services:
+    - type: "Golf"
+      date: "June 17"
+      time: "10 AM"
+    - type: "Wine Tasting"
+      date: "June 18"
+      time: "5 PM"
+- reservation_id: 103
+  guest_name: "Sophia Lee"
+  services:
+    - type: "Yoga Class"
+      date: "June 19"
+      time: "8 AM"
+    - type: "Brunch"
+      date: "June 20"
+      time: "11 AM"
+- reservation_id: 104
+  guest_name: "Michael Brown"
+  services:
+    - type: "Cooking Workshop"
+      date: "June 21"
+      time: "4 PM"
+    - type: "Movie Night"
+      date: "June 22"
+      time: "9 PM"
+- reservation_id: 105
+  guest_name: "Olivia Smith"
+  services:
+    - type: "Deep See Fishing"
+      date: "June 22"
+      time: "9 PM"
+    - type: "Evening Cruise"
+      date: "June 24"
+      time: "6 PM"
