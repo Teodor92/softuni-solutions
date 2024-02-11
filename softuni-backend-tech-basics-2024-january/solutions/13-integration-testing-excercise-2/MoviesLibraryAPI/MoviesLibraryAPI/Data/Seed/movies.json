@@ -1,0 +1,83 @@
+[
+  {
+    "Title": "The Shawshank Redemption",
+    "Director": "Frank Darabont",
+    "YearReleased": 1994,
+    "Genre": "Drama",
+    "Duration": 142,
+    "Rating": 9.3
+  },
+  {
+    "Title": "The Godfather",
+    "Director": "Francis Ford Coppola",
+    "YearReleased": 1972,
+    "Genre": "Crime, Drama",
+    "Duration": 175,
+    "Rating": 9.2
+  },
+  {
+    "Title": "The Dark Knight",
+    "Director": "Christopher Nolan",
+    "YearReleased": 2008,
+    "Genre": "Action, Crime, Drama",
+    "Duration": 152,
+    "Rating": 9.0
+  },
+  {
+    "Title": "12 Angry Men",
+    "Director": "Sidney Lumet",
+    "YearReleased": 1957,
+    "Genre": "Drama",
+    "Duration": 96,
+    "Rating": 9.0
+  },
+  {
+    "Title": "Schindler's List",
+    "Director": "Steven Spielberg",
+    "YearReleased": 1993,
+    "Genre": "Biography, Drama, History",
+    "Duration": 195,
+    "Rating": 8.9
+  },
+  {
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Director": "Peter Jackson",
+    "YearReleased": 2003,
+    "Genre": "Action, Adventure, Drama",
+    "Duration": 201,
+    "Rating": 8.9
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Director": "Quentin Tarantino",
+    "YearReleased": 1994,
+    "Genre": "Crime, Drama",
+    "Duration": 154,
+    "Rating": 8.9
+  },
+  {
+    "Title": "The Good, the Bad and the Ugly",
+    "Director": "Sergio Leone",
+    "YearReleased": 1966,
+    "Genre": "Western",
+    "Duration": 161,
+    "Rating": 8.8
+  },
+  {
+    "Title": "Fight Club",
+    "Director": "David Fincher",
+    "YearReleased": 1999,
+    "Genre": "Drama",
+    "Duration": 139,
+    "Rating": 8.8
+  },
+  {
+    "Title": "Forrest Gump",
+    "Director": "Robert Zemeckis",
+    "YearReleased": 1994,
+    "Genre": "Drama, Romance",
+    "Duration": 142,
+    "Rating": 8.8
+  }
+]
+
