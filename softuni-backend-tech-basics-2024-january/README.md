@@ -15,14 +15,14 @@ This repository contains the solution for the Lab exercises that were done durin
 | 7  | [Exercise: JavaScript Fundamentals](./solutions/07-javascript-fundamentals-exercise/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65539) | [Link](https://judge.softuni.org/Contests/4641/JS-Fundamentals-Exercises) |
 | 8  | [Unit Testing with JavaScript](./solutions/08-unit-testing-with-javascript/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65540) | [Link](https://judge.softuni.org/Contests/4678/Unit-Testing-with-JS-Lab) |
 | 9  | [Exercise: Unit Testing with JavaScript](./solutions/09-unit-testing-with-javascript-exercise/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65541) | [Link](https://judge.softuni.org/Contests/4679/Unit-Testing-with-JS-Exercise) |
-| 10 | [Databases Overview](./solutions/10-databases-overview/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65542) | [Link](TODO) |
-| 11 | [Integration Testing](./solutions/11-integration-testing/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65543) | [Link](TODO) |
-| 12 | [Exercise: Integration Testing - part 1](./solutions/12-integration-testing-excercise-1/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65544) | [Link](TODO) |
-| 13 | [Exercise: Integration Testing - part 2](./solutions/13-integration-testing-excercise-2/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65545) | [Link](TODO) |
-| 14 | [Unit Testing with Mocking](./solutions/14-unit-testing-with-mocking/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65546) | [Link](TODO) |
-| 15 | [Restful API Backend Apps](./solutions/15-restufl-apis/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65547) | [Link](TODO) |
-| 16 | [Exercise: Testing API Controllers](./solutions/16-testing-api-controllers-exercise/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65548) | [Link](TODO) |
-| 17 | [Code Coverage](./solutions/17-code-coverage/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65549) | [Link](TODO) |
+| 10 | [Databases Overview](./solutions/10-databases-overview/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65542) | N/A |
+| 11 | [Integration Testing](./solutions/11-integration-testing/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65543) | N/A |
+| 12 | [Exercise: Integration Testing - part 1](./solutions/12-integration-testing-excercise-1/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65544) | N/A |
+| 13 | [Exercise: Integration Testing - part 2](./solutions/13-integration-testing-excercise-2/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65545) | N/A |
+| 14 | [Unit Testing with Mocking](./solutions/14-unit-testing-with-mocking/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65546) | N/A |
+| 15 | [Restful API Backend Apps](./solutions/15-restufl-apis/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65547) | N/A |
+| 16 | [Exercise: Testing API Controllers](./solutions/16-testing-api-controllers-exercise/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65548) | N/A |
+| 17 | [Code Coverage](./solutions/17-code-coverage/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65549) | N/A |
 | 18 | [Mutation Testing](./solutions/18-mutation-testing/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65550) | [Link](TODO) |
 | 19 | [Exam Preparation - 1](./solutions/19-exam-preparation-1/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65551) | [Link](TODO) |
 | 20 | [Exam Preparation - 2](./solutions/20-exam-preparation-2/) | [Link](https://softuni.bg/trainings/4398/back-end-technologies-basics-january-2024#lesson-65552) | [Link](TODO) |
