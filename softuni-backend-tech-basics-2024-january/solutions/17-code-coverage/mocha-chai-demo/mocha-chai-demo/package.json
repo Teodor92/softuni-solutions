@@ -1,0 +1,31 @@
+{
+  "name": "mocha-chai-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "coverage": "nyc npm test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.0.0",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0"
+  },
+  "nyc": {
+    "reporter": [
+      "text-summary",
+      "lcov"
+    ],
+    "extension": [
+      ".js",
+      ".mjs"
+    ],
+    "exclude": [
+      "test/**"
+    ]
+  }
+}
