@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactsConsoleAPI", "ContactsConsoleAPI\ContactsConsoleAPI.csproj", "{C5FA008F-3B52-46C5-9286-F63A1665BDCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactsConsoleAPI.IntegrationTests.NUnit", "ContactsConsoleAPI.IntegrationTests.NUnit\ContactsConsoleAPI.IntegrationTests.NUnit.csproj", "{8D1F7A0C-AB11-47B9-A38F-C44AE6EB989D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5FA008F-3B52-46C5-9286-F63A1665BDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5FA008F-3B52-46C5-9286-F63A1665BDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5FA008F-3B52-46C5-9286-F63A1665BDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5FA008F-3B52-46C5-9286-F63A1665BDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1F7A0C-AB11-47B9-A38F-C44AE6EB989D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1F7A0C-AB11-47B9-A38F-C44AE6EB989D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1F7A0C-AB11-47B9-A38F-C44AE6EB989D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1F7A0C-AB11-47B9-A38F-C44AE6EB989D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82A6CCF8-089F-4C06-B509-D722F2DE1679}
+	EndGlobalSection
+EndGlobal
