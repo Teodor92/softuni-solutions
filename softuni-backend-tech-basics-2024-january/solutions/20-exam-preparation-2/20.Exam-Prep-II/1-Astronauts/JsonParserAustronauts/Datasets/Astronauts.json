@@ -1,0 +1,79 @@
+[
+  {
+    "astronautId": 1001,
+    "astronautName": "Rachel Nguyen",
+    "age": 29,
+    "profession": "Biologist",
+    "yearsExperience": 7,
+    "missions": {
+      "current": "Europa Exploration",
+      "past": [ "Lunar Research", "Solar Flare Study" ]
+    }
+  },
+  {
+    "astronautId": 1002,
+    "astronautName": "Mike Johnson",
+    "age": 34,
+    "profession": "Engineer",
+    "yearsExperience": 10,
+    "missions": {
+      "current": "Starlight Mission",
+      "past": [ "Venus Survey", "Asteroid Belt Mapping" ]
+    }
+  },
+  {
+    "astronautId": 1003,
+    "astronautName": "Emily White",
+    "age": 30,
+    "profession": "Medic",
+    "yearsExperience": 8,
+    "missions": {
+      "current": "Orion Project",
+      "past": [ "Earth Orbital Station", "Comet Analysis" ]
+    }
+  },
+  {
+    "astronautId": 1004,
+    "astronautName": "Carlos Martinez",
+    "age": 36,
+    "profession": "Geologist",
+    "yearsExperience": 12,
+    "missions": {
+      "current": "Mars Habitat Mission",
+      "past": [ "Moon Landing Expedition", "Asteroid Composition Study" ]
+    }
+  },
+  {
+    "astronautId": 1005,
+    "astronautName": "Sarah Chen",
+    "age": 31,
+    "profession": "Navigator",
+    "yearsExperience": 9,
+    "missions": {
+      "current": "Deep Space",
+      "past": [ "Jupiter Rings Study", "Neptune Flyby Analysis" ]
+    }
+  },
+  {
+    "astronautId": 1006,
+    "astronautName": "Alex Turner",
+    "age": 33,
+    "profession": "Physicist",
+    "yearsExperience": 10,
+    "missions": {
+      "current": "Quantum Teleportation Research",
+      "past": [ "Black Hole Observation", "Dark Matter Research" ]
+    }
+  },
+  {
+    "astronautId": 1007,
+    "astronautName": "Lisa Adams",
+    "age": 35,
+    "profession": "Pilot",
+    "yearsExperience": 13,
+    "missions": {
+      "current": "Galaxy Mapping Initiative",
+      "past": [ "Saturn Ring Analysis", "Interstellar Boundary Explorer" ]
+    }
+  }
+]

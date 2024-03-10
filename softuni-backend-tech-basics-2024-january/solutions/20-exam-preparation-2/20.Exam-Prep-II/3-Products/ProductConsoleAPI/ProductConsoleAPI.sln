@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductConsoleAPI", "ProductConsoleAPI\ProductConsoleAPI.csproj", "{EE593B83-39A2-4A92-8231-228FEE6EF6B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductConsoleAPI.IntegrationTests.NUnit", "ProductConsoleAPI.IntegrationTests.NUnit\ProductConsoleAPI.IntegrationTests.NUnit.csproj", "{F001D9FB-BBD9-4AFF-9E5E-4F1A4BF338C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE593B83-39A2-4A92-8231-228FEE6EF6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE593B83-39A2-4A92-8231-228FEE6EF6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE593B83-39A2-4A92-8231-228FEE6EF6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE593B83-39A2-4A92-8231-228FEE6EF6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F001D9FB-BBD9-4AFF-9E5E-4F1A4BF338C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F001D9FB-BBD9-4AFF-9E5E-4F1A4BF338C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F001D9FB-BBD9-4AFF-9E5E-4F1A4BF338C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F001D9FB-BBD9-4AFF-9E5E-4F1A4BF338C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9612E6E5-2915-4543-9793-ACF058206F52}
+	EndGlobalSection
+EndGlobal
