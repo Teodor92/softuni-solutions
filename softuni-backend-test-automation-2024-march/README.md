@@ -1,4 +1,4 @@
-# Back-End Technologies Basics - January 2024
+# Back-End Test Automation - March 2024
 
 This repository contains the solution for the Lab exercises that were done during the course.
 
