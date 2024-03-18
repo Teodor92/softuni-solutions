@@ -1,0 +1,37 @@
+﻿@model EventFormModel;
+
+@{
+    ViewBag.Title = "Event Details";
+}
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="row mx-auto">
+    <div class="col-sm-12 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
+        <div class="mb-3">
+            <p class="font-weight-bold">Event: @Model.Name</p>
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <p class="form-label font-weight-bold">Start: @Model.Start</p>
+            <span asp-validation-for="Start" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <p asp-for="End" class="form-label font-weight-bold">End: @Model.End</p>
+            <span asp-validation-for="End" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <p asp-for="End" class="form-label font-weight-bold">Place: @Model.Place</p>
+            <span asp-validation-for="Place" class="text-danger"></span>
+        </div>
+        <div class="d-flex flex-row justify-content-around">
+            <a asp-controller="Event" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+            <form asp-controller="Event" asp-action="Delete" asp-route-id="@Model.Id" method="Post">
+                <input type="submit" value="Delete" class="btn btn-primary" />
+            </form>
+        </div>
+    </div>
+</div>
+
+

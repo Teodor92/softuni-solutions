@@ -1,0 +1,47 @@
+﻿@model IEnumerable<EventFormModel>
+
+@{
+    ViewData["Title"] = "Explore All Events";
+}
+
+<h1 class="text-center">@ViewBag.Title</h1>
+
+<p class="text-center">View All of the Events</p>
+
+<hr />
+<div class="text-center row">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col"></th>
+                <th scope="col">Event</th>
+                <th scope="col">Start</th>
+                <th scope="col">End</th>
+                <th scope="col">Place</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody class="table-group-divider">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row"></th>
+                    <td>@item.Name</td>
+                    <td>@item.Start</td>
+                    <td>@item.End</td>
+                    <td>@item.Place</td>
+                    <td> 
+                        <div class="d-flex flex-row justify-content-around">
+                            <a asp-controller="Event" asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">Details</a>
+                            <a asp-controller="Event" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a>
+                            <form asp-controller="Event" asp-action="Delete" asp-route-id="@item.Id" method="Post">
+                                <input type="submit" value="Delete" class="btn btn-primary" />
+                            </form>
+                          </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
