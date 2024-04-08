@@ -1,0 +1,19 @@
+groups:
+  - name: Connection was slow
+    rules:
+      - alert: SlowConnection
+        expr: probe_http_duration_seconds{phase="connect"} > 0.0001
+        for: 3s
+        labels:
+          severity: warning
+        annotations:
+          summary: "Connection took more than 0.01 milliseconds"
+  # - name: Page access 3 times for 5 minutes
+  #   rules:
+  #     - alert: PageAccessed3TimesFor5Minutes
+  #       expr: changes(http_request_duration_seconds_count[5m]) >= 3
+  #       for: 10s
+  #       labels:
+  #         severity: warning
+  #       annotations:
+  #         summary: "Page was accessed for more than 3 times within the last 5 minutes."

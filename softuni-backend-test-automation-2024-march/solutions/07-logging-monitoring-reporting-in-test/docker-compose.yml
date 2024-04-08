@@ -1,0 +1,66 @@
+version: "3"
+
+networks:
+  prometheus_net:
+    driver: "bridge"
+
+services:
+  prometheus:
+    image: prom/prometheus:latest
+    privileged: true
+    volumes:
+      - ./prometheus-1:/etc/prometheus
+    ports:
+      - "9090:9090"
+    deploy:
+      mode: global
+    networks:
+      - prometheus_net
+
+  alertmanager:
+    image: prom/alertmanager:latest
+    ports:
+      - 9093:9093
+    volumes:
+      - ./alertmanager/config.yml/:/etc/alertmanager/alertmanager/config.yml
+    restart: always
+    deploy:
+      mode: global
+    networks:
+      - prometheus_net
+
+  blackbox:
+    image: prom/blackbox-exporter:latest
+    privileged: true
+    ports:
+      - "9115:9115"
+    networks:
+      - prometheus_net
+
+  node-exporter:
+    image: prom/node-exporter:latest
+    privileged: true
+    ports:
+      - "9100:9100"
+    networks:
+      - prometheus_net
+
+  grafana:
+    image: grafana/grafana:latest
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=pass
+    depends_on:
+      - prometheus
+    ports:
+      - "3000:3000"
+    networks:
+      - prometheus_net
+
+  nodejs_app:
+    build:
+      context: ./ContactBook-NodeJS-App
+      dockerfile: ./Dockerfile
+    ports:
+      - "8080:8080"
+    networks:
+      - prometheus_net
