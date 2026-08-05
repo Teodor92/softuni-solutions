@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A collection of lab solution for lectures I have lead at SoftUni",
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "author": "Teodor Kurtev",
   "license": "ISC",
